@@ -1,0 +1,5 @@
+Java: 25.0.1
+VM: Java HotSpot(TM) 64-Bit Server VM
+OS: Windows 11
+Seed: new Random(42) per graph
+Runs: one warm-up, five measured, median
